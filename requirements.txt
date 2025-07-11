@@ -1,0 +1,6 @@
+streamlit>=1.22.0
+pandas>=1.3.0
+openpyxl>=3.0.0        # Required for Excel file operations
+watchdog>=3.0.0         # For filesystem monitoring
+numpy>=1.21.0           # pandas dependency
+Pillow>=9.0.0           # Optional (for image handling if needed)
