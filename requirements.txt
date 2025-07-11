@@ -1,4 +1,4 @@
 streamlit==1.46.1
 pandas==2.2.2  # Newer versions are larger
-openpyxl==3.1.2  # Lighter than latest
+openpyxl
 watchdog==3.0.0  # Essential for your FS monitoring
